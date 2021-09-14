@@ -1,10 +1,10 @@
 site_name: Part writing Error Checker
 nav:
-    - Home: 'Index.md'
-    - Installation: 'Installation.md'
-    - Running: 'Running.md'
+    - Home: 'index.md'
+    - Installation: 'installation.md'
+    - Running: 'running.md'
     - Partwriting Errors: '/Errors/'
-    - Key Decisions: 'KeyDecisions.md'
-    - Notes: 'InterestingNotes.md'
-    - Credits: 'Credits.md'
+    - Key Decisions: 'keydecisions.md'
+    - Notes: 'interestingnotes.md'
+    - Credits: 'credits.md'
 theme: readthedocs
