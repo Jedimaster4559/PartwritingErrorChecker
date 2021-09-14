@@ -21,7 +21,7 @@ project = 'Part Writing Error Checker'
 copyright = '2021, Nathan Solomon'
 author = 'Nathan Solomon'
 
-master_doc = "index"
+master_doc = "index.md"
 
 
 # -- General configuration ---------------------------------------------------
