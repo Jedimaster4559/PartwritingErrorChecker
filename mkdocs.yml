@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Part writing Error Checker
+nav:
+    - Home: 'Index.md'
+    - Installation: 'Installation.md'
+    - Running: 'Running.md'
+    - Partwriting Errors: '/Errors/'
+    - Key Decisions: 'KeyDecisions.md'
+    - Notes: 'InterestingNotes.md'
+    - Credits: 'Credits.md'
+theme: readthedocs
