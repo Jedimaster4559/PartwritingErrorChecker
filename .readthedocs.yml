@@ -4,12 +4,7 @@ python:
   version: 3
   install:
       - method: pip
-        path: .
+        path: ./docs
         extra_requirements:
           - linkify
           - rtd
-
-sphinx:
-  builder: html
-  fail_on_warning: true
-  
