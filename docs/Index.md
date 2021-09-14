@@ -7,3 +7,10 @@ It can also be difficult for students to study independantly as students on thei
 
 # The Solution
 This tool attempts to solve this issue by providing a resource which can be used by students to quickly check their own work. This will allow students to learn more quickly by giving them the ability to practice and ensure a high level of accuracy in their work.
+
+# Site Contents
+```{toctree}
+---
+maxdepth: 2
+---
+```
