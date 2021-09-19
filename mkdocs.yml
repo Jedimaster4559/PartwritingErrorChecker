@@ -2,7 +2,7 @@ site_name: Part writing Error Checker
 site_url: https://honorscapstoneproject.readthedocs.io/
 theme: readthedocs
 nav:
-  - Home: 'Index.md'
+  - Home: 'README.md'
   - Installation: 'Installation.md'
   - Running: 'Running.md'
   - Errors:
