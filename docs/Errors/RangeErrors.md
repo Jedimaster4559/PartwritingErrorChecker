@@ -9,12 +9,15 @@ In the example above, the last note of the bass part is lower than the standard 
 ## Default Configuration
 Soprano: C4 to G5<br>
 ![Soprano Range](../img/SopranoRange.PNG)
+---
 
 Alto: G3 to C5<br>
 ![Alto Range](../img/AltoRange.PNG)
+---
 
 Tenor: C3 to G4<br>
 ![Tenor Range](../img/TenorRange.PNG)
+---
 
 Bass: E2 to C4<br>
 ![Bass Range](../img/BassRange.PNG)
