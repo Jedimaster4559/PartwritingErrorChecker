@@ -12,8 +12,11 @@ nav:
     - 'Spacing Errors': 'Errors/SpacingErrors.md'
     - 'Crossed Voices': 'Errors/CrossedVoices.md'
     - 'Melodic Dissonance': 'Errors/MelodicDissonance.md'
+    - 'Hidden Fifths': 'Errors/HiddenFifths.md'
+    - 'Diminished Fifth Resolutions': 'Errors/DiminishedFifthResolutions.md'
   - Development:
     - 'Key Decisions': 'KeyDecisions.md'
     - 'Interesting Notes': 'InterestingNotes.md'
     - 'Future Work': 'FutureWork.md'
     - 'Credits': 'Credits.md'
+    - 'Bibliography': 'Bibliography.md'
