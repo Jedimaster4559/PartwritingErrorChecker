@@ -2,16 +2,16 @@ site_name: Part writing Error Checker
 site_url: https://honorscapstoneproject.readthedocs.io/
 theme: readthedocs
 nav:
-  - Home: 'index.md'
-  - Installation: 'installation.md'
-  - Running: 'running.md'
+  - Home: './index.md'
+  - Installation: './installation.md'
+  - Running: './running.md'
   - Errors:
     - 'Parallel Errors': 'Errors/ParallelErrors.md'
-    - 'Range Errors': 'Errors/RangeErrord.md'
+    - 'Range Errors': 'Errors/RangeErrors.md'
     - 'Spacing Errors': 'Errors/SpacingErrors.md'
     - 'Crossed Voices': 'Errors/CrossedVoices.md'
     - 'Melodic Dissonance': 'Errors/MelodicDissonance.md'
   - Development:
-    - 'Key Decisions': 'keydecisions.md'
-    - 'Interesting Notes': 'interestingnotes.md'
-    - 'Credits': 'credits.md'
+    - 'Key Decisions': './keydecisions.md'
+    - 'Interesting Notes': './interestingnotes.md'
+    - 'Credits': './credits.md'
