@@ -1,4 +1,4 @@
-# Partwriting Error Identifier  Musesscore Plugin
+# Partwriting Error Identifier  Musescore Plugin
 
 # Introduction
 Most collegiate music students will take a sequence of music theory courses during their collegiate career. One of the skills students learn in these course is traditional partwriting. Partwriting can be complicated and due to it's difficulty, many students struggle to  learn it. Due to it's complexity it can often take instructors extended amounts of time to grade and provide feedback to students. This lack of feedback often means it is difficult for students to learn from their mistakes and make improvements in the future.
