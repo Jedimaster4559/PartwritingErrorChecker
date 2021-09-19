@@ -5,6 +5,7 @@ nav:
   - Home: 'README.md'
   - Installation: 'Installation.md'
   - Running: 'Running.md'
+  - Effective Use: 'EffectiveUse.md'
   - Errors:
     - 'Parallel Errors': 'Errors/ParallelErrors.md'
     - 'Range Errors': 'Errors/RangeErrors.md'
