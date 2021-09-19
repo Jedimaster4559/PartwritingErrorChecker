@@ -5,3 +5,8 @@
   - perhaps packaged with Musescore
 - See about getting the plugin "Officially Supported"
 - Machine Learning including musicality
+- Improve configurability
+  - Colors
+  - Ranges
+- Integration with other plugins
+  - Chord Checker
