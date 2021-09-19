@@ -2,9 +2,9 @@ site_name: Part writing Error Checker
 site_url: https://honorscapstoneproject.readthedocs.io/
 theme: readthedocs
 nav:
-  - Home: './index.md'
-  - Installation: './installation.md'
-  - Running: './running.md'
+  - Home: 'Index.md'
+  - Installation: 'Installation.md'
+  - Running: 'Running.md'
   - Errors:
     - 'Parallel Errors': 'Errors/ParallelErrors.md'
     - 'Range Errors': 'Errors/RangeErrors.md'
@@ -12,6 +12,6 @@ nav:
     - 'Crossed Voices': 'Errors/CrossedVoices.md'
     - 'Melodic Dissonance': 'Errors/MelodicDissonance.md'
   - Development:
-    - 'Key Decisions': './keydecisions.md'
-    - 'Interesting Notes': './interestingnotes.md'
-    - 'Credits': './credits.md'
+    - 'Key Decisions': 'KeyDecisions.md'
+    - 'Interesting Notes': 'InterestingNotes.md'
+    - 'Credits': 'Credits.md'
