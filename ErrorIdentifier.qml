@@ -561,7 +561,7 @@ MuseScore {
         RowLayout {
             id: rangeErrorRow
             spacing: 10
-            Text { text: " [Insert Note]"; color: rangeErrorColor }
+            Text { text: " 𝅘𝅥"; color: rangeErrorColor }
             Text { text: "Range Errors" }
             Text { text: rangeErrorCount }
         }
@@ -569,7 +569,7 @@ MuseScore {
         RowLayout {
             id: melodicDissonanceErrorRow
             spacing: 10
-            Text { text: " [Insert Note]"; color: melodicDissonanceColor }
+            Text { text: " 𝅘𝅥"; color: melodicDissonanceColor }
             Text { text: "Melodic Dissonance Errors" }
             Text { text: melodicDissonanceCount }
         }
@@ -577,7 +577,7 @@ MuseScore {
         RowLayout {
             id: spacingErrorRow
             spacing: 10
-            Text { text: " [Insert Note]"; color: spacingErrorColor }
+            Text { text: " 𝅘𝅥"; color: spacingErrorColor }
             Text { text: "Spacing Errors" }
             Text { text: spacingErrorCount }
         }
@@ -585,7 +585,7 @@ MuseScore {
         RowLayout {
             id: crossedErrorRow
             spacing: 10
-            Text { text: " [Insert Note]"; color: crossedVoicesColor }
+            Text { text: " 𝅘𝅥"; color: crossedVoicesColor }
             Text { text: "Crossed Voices Errors" }
             Text { text: crossedVoicesErrorCount }
         }
@@ -593,7 +593,7 @@ MuseScore {
         RowLayout {
             id: parallelErrorRow
             spacing: 10
-            Text { text: " [Insert Note]"; color: parallelErrorColor }
+            Text { text: " 𝅘𝅥"; color: parallelErrorColor }
             Text { text: "Parallel 5ths/8va Errors" }
             Text { text: parallelErrorCount }
         }
@@ -601,7 +601,7 @@ MuseScore {
         RowLayout {
             id: hiddenFifthsErrorRow
             spacing: 10
-            Text { text: " [Insert Note]"; color: hiddenFifthsColor }
+            Text { text: " 𝅘𝅥"; color: hiddenFifthsColor }
             Text { text: "Hidden Fifths Errors" }
             Text { text: hiddenFifthErrorCount }
         }
@@ -609,7 +609,7 @@ MuseScore {
         RowLayout {
             id: diminishedFifthErrorRow
             spacing: 10
-            Text { text: " [Insert Note]"; color: diminishedFifthColor }
+            Text { text: " 𝅘𝅥"; color: diminishedFifthColor }
             Text { text: "Diminished Fifth Resolution Errors" }
             Text { text: diminishedFifthErrorCount }
         }
