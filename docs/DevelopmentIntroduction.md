@@ -1,0 +1,2 @@
+# Introduction
+This section of the documentation site outlines the development process and decisions that were made while working on this application. The ultimate goal of this section is to create a basis for eventual conversion to the report to be submitted for the UAH Honors Capstone Project. This section is still under much development and will not contain much information relevant to the actual operation of this software.

@@ -1,0 +1,23 @@
+site_name: Part Writing Error Checker
+site_url: https://honorscapstoneproject.readthedocs.io/
+theme: readthedocs
+nav:
+  - Home: 'README.md'
+  - Installation: 'Installation.md'
+  - Running: 'Running.md'
+  - Effective Use: 'EffectiveUse.md'
+  - Errors:
+    - 'Parallel Errors': 'Errors/ParallelErrors.md'
+    - 'Range Errors': 'Errors/RangeErrors.md'
+    - 'Spacing Errors': 'Errors/SpacingErrors.md'
+    - 'Crossed Voices': 'Errors/CrossedVoices.md'
+    - 'Melodic Dissonance': 'Errors/MelodicDissonance.md'
+    - 'Hidden Fifths': 'Errors/HiddenFifths.md'
+    - 'Diminished Fifth Resolutions': 'Errors/DiminishedFifthResolutions.md'
+  - Development:
+    - 'Introduction': 'DevelopmentIntroduction.md'
+    - 'Key Decisions': 'KeyDecisions.md'
+    - 'Interesting Notes': 'InterestingNotes.md'
+    - 'Future Work': 'FutureWork.md'
+    - 'Credits': 'Credits.md'
+    - 'Bibliography': 'Bibliography.md'
