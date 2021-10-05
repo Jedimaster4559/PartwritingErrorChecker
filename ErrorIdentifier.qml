@@ -644,6 +644,20 @@ MuseScore {
     }
 
     Button {
+        id: buttonFeedback
+        text: qsTr("Provide Feedback")
+        anchors.bottom: mainDialog.bottom
+        anchors.left:   mainDialog.left
+        anchors.bottomMargin: 10
+        anchors.leftMargin: 10
+        width: 100
+        height: 40
+        onClicked: {
+            Qt.openUrlExternally("https://uah.co1.qualtrics.com/jfe/form/SV_4ZxsMoY3zoPbdnU")
+        }
+    }
+
+    Button {
         id: buttonOK
         text: qsTr("OK")
         anchors.bottom: mainDialog.bottom
