@@ -13,7 +13,7 @@ import Qt.labs.settings 1.0
 MuseScore {
     menuPath: "Plugins.Analysis.Partwriting Error Identifier"
     description: 'Automatically Identify Errors in Partwriting'
-    version: "0.0.1"
+    version: "0.1.0"
     pluginType: "dialog"
 
     // Allowed Part Range Configurations
@@ -561,56 +561,77 @@ MuseScore {
         RowLayout {
             id: rangeErrorRow
             spacing: 10
-            Text { text: " 𝅘𝅥"; color: rangeErrorColor }
-            Text { text: "Range Errors" }
+            Text { text: " 𝅘𝅥 𝅘𝅥 𝅘𝅥 𝅘𝅥 "; color: rangeErrorColor }
+            Text {
+                text: '<html><a href="https://partwriting-error-checker.readthedocs.io/en/latest/Errors/RangeErrors/">Range Errors</a></html>'
+                onLinkActivated:Qt.openUrlExternally(link)
+            }
             Text { text: rangeErrorCount }
         }
 
         RowLayout {
             id: melodicDissonanceErrorRow
             spacing: 10
-            Text { text: " 𝅘𝅥"; color: melodicDissonanceColor }
-            Text { text: "Melodic Dissonance Errors" }
+            Text { text: " 𝅘𝅥 𝅘𝅥 𝅘𝅥 𝅘𝅥 "; color: melodicDissonanceColor }
+            Text {
+                text: '<html><a href="https://partwriting-error-checker.readthedocs.io/en/latest/Errors/MelodicDissonance/">Melodic Dissonance Errors</a></html>'
+                onLinkActivated:Qt.openUrlExternally(link)
+            }
             Text { text: melodicDissonanceCount }
         }
 
         RowLayout {
             id: spacingErrorRow
             spacing: 10
-            Text { text: " 𝅘𝅥"; color: spacingErrorColor }
-            Text { text: "Spacing Errors" }
+            Text { text: " 𝅘𝅥 𝅘𝅥 𝅘𝅥 𝅘𝅥 "; color: spacingErrorColor }
+            Text {
+                text: '<html><a href="https://partwriting-error-checker.readthedocs.io/en/latest/Errors/SpacingErrors/">Spacing Errors</a></html>'
+                onLinkActivated:Qt.openUrlExternally(link)
+            }
             Text { text: spacingErrorCount }
         }
 
         RowLayout {
             id: crossedErrorRow
             spacing: 10
-            Text { text: " 𝅘𝅥"; color: crossedVoicesColor }
-            Text { text: "Crossed Voices Errors" }
+            Text { text: " 𝅘𝅥 𝅘𝅥 𝅘𝅥 𝅘𝅥 "; color: crossedVoicesColor }
+            Text {
+                text: '<html><a href="https://partwriting-error-checker.readthedocs.io/en/latest/Errors/CrossedVoices/">Crossed Voices Errors</a></html>'
+                onLinkActivated:Qt.openUrlExternally(link)
+            }
             Text { text: crossedVoicesErrorCount }
         }
 
         RowLayout {
             id: parallelErrorRow
             spacing: 10
-            Text { text: " 𝅘𝅥"; color: parallelErrorColor }
-            Text { text: "Parallel 5ths/8va Errors" }
+            Text { text: " 𝅘𝅥 𝅘𝅥 𝅘𝅥 𝅘𝅥 "; color: parallelErrorColor }
+            Text {
+                text: '<html><a href="https://partwriting-error-checker.readthedocs.io/en/latest/Errors/ParallelErrors/">Parallel 5ths/8va Errors</a></html>'
+                onLinkActivated:Qt.openUrlExternally(link)
+            }
             Text { text: parallelErrorCount }
         }
 
         RowLayout {
             id: hiddenFifthsErrorRow
             spacing: 10
-            Text { text: " 𝅘𝅥"; color: hiddenFifthsColor }
-            Text { text: "Hidden Fifths Errors" }
+            Text { text: " 𝅘𝅥 𝅘𝅥 𝅘𝅥 𝅘𝅥 "; color: hiddenFifthsColor }
+            Text {
+                text: '<html><a href="https://partwriting-error-checker.readthedocs.io/en/latest/Errors/HiddenFifths/">Hidden Fifths Errors</a></html>'
+                onLinkActivated:Qt.openUrlExternally(link)
+            }
             Text { text: hiddenFifthErrorCount }
         }
 
         RowLayout {
             id: diminishedFifthErrorRow
             spacing: 10
-            Text { text: " 𝅘𝅥"; color: diminishedFifthColor }
-            Text { text: "Diminished Fifth Resolution Errors" }
+            Text { text: " 𝅘𝅥 𝅘𝅥 𝅘𝅥 𝅘𝅥 "; color: diminishedFifthColor }
+            Text {
+                text: '<html><a href="https://partwriting-error-checker.readthedocs.io/en/latest/Errors/DiminishedFifthResolutions/">Diminished Fifth Resolution Errors</a></html>'
+                onLinkActivated:Qt.openUrlExternally(link)
+            }
             Text { text: diminishedFifthErrorCount }
         }
 
@@ -649,6 +670,7 @@ MuseScore {
             curScore.startCmd();
             clearAllColorsQuick();
             curScore.endCmd();
+            Qt.quit();
         }
     }
 }
