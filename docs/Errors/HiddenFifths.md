@@ -12,4 +12,4 @@ The reason this is bad is because this type of motion implies parallel fifths (o
 # Example
 ![Hidden Fifths Example](../img/HiddenFifthsExample.PNG)
 
-The above example has hidden fifths occurring bettwen the first two beats of the bass and the soprano. Note that the two parts are moving in similar motion, and that they end with the bass on `G` and the Soprano on `D`. Since the soprano moved by a leap here, there are hidden fifths.
+The above example has hidden fifths occurring between the first two beats of the bass and the soprano. Note that the two parts are moving in similar motion, and that they end with the bass on `G` and the Soprano on `D`. Since the soprano moved by a leap here, there are hidden fifths.

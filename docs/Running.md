@@ -16,13 +16,13 @@ Next, selected the "Error Checker" option then click "OK"<br>
 ![Enabling Musescore Error Checker Plugin](img/PluginManagerChecked.PNG)
 
 ## Running the Plugin
-Running the plugin is fairly simple. First, input your partwriting in Musescore. For Example:<br>
-![ExamplePartwriting](img/ExamplePartwriting.PNG)
+Running the plugin is fairly simple. First, input your part-writing in Musescore. For Example:<br>
+![Example Part-Writing](img/ExamplePartwriting.PNG)
 
-Next, Select the Parwriting Error Identifier from the Analysis Subcategory of the Plugins menu.<br>
+Next, Select the part-writing Error Identifier from the Analysis Subcategory of the Plugins menu.<br>
 ![Running The Plugin](img/RunningThePlugin.PNG)
 
-This will generate a report outlining the errors that were found in your partwriting. Additionally, the notes of your score will be colored to indicate where the specific errors are.
+This will generate a report outlining the errors that were found in your part-writing. Additionally, the notes of your score will be colored to indicate where the specific errors are.
 ![Example Report](img/ExampleReport.PNG)
 
 When you are done, you can either clear the colors, or select "OK" to exit the report. If you leave the colors and want to remove them later, you can simply rerun the plugin and select "Remove Colors" at that time.

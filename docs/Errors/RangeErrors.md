@@ -4,7 +4,7 @@ A range error occurs when one individual part exceeds the range normally given t
 ## Example
 ![Range Error Example](../img/RangeErrorExample.PNG)
 
-In the example above, the last note of the bass part is lower than the standard range for bass partwriting.
+In the example above, the last note of the bass part is lower than the standard range for bass part-writing.
 
 ## Default Configuration
 Soprano: C4 to G5<br>
