@@ -16,6 +16,7 @@ nav:
     - 'Diminished Fifth Resolutions': 'Errors/DiminishedFifthResolutions.md'
   - Development:
     - 'Introduction': 'DevelopmentIntroduction.md'
+    - 'Development Process': 'DevelopmentProcess.md'
     - 'Key Decisions': 'KeyDecisions.md'
     - 'Interesting Notes': 'InterestingNotes.md'
     - 'Future Work': 'FutureWork.md'

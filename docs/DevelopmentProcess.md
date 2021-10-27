@@ -1,0 +1,5 @@
+# Development Process
+Throughout this project, and Agile approach to software development was used. My advisor (Dr. Vineetha Menon) played the role of Product Owner while I played the role of Scrum Master/Lead Developer. The semester was organized into one-week sprints where each sprint a set of features would be implemented. At the conclusion of each spring, the new features were demonstrated to the product owner and the next sprint was planned. This enabled the software to be designed and implemented in approximately 12 weeks.
+
+## Lessons Learned
+If I were to do this project again from the start I would lean even more into this process. Our approach to Agile was more of an afterthought and a general approach than a formalized process. Committing to writing user stories, planning features, and iterative development may have allowed for a faster development cycle as well as a clearer definition of the final product.

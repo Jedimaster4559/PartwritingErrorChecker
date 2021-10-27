@@ -1,4 +1,6 @@
 # Credits
+NOTE: This section will be merged with the Bibliography Page in the near future
+
 There are a couple people I would like to thank for their assistance on this project.
 
 Dr. Vineetha Menon served as my capstone director. Her assistance greatly helped keep the project on schedule and on track for success.
