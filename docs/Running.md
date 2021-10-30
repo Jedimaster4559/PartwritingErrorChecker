@@ -1,7 +1,7 @@
 # Running
 
 ## Overview
-To run the plugin, open musescore and  then select the plugins manager from the plugins menu. If the plugin was installed correctly (see [installation](#installation)) you should see this plugin identified in that list. Selecting the checkbox by the plugin will make the plugin available for use.
+To run the plugin, open Musescore and  then select the plugins manager from the plugins menu. If the plugin was installed correctly (see [installation](#installation)) you should see this plugin identified in that list. Selecting the checkbox by the plugin will make the plugin available for use.
 
 ## Enabling the Plugin
 To enable the plugin, first open the Musescore Plugin Manager:<br>
@@ -10,7 +10,7 @@ To enable the plugin, first open the Musescore Plugin Manager:<br>
 Once in the Musescore Plugin Manager, there should be an option labeled "Error Checker".<br>
 ![Musescore Plugin Manager](img/PluginManager.PNG)
 
-If there is no "Error Checker" option available, try selecting "Reload Plugins". If there is still no option available, return to [installation](#installation) to verify that the plugin was installed correctly.
+If there is no "Error Checker" option available, try selecting "Reload Plugins". If there is still no option available, return to ![installation](#installation) to verify that the plugin was installed correctly.
 
 Next, selected the "Error Checker" option then click "OK"<br>
 ![Enabling Musescore Error Checker Plugin](img/PluginManagerChecked.PNG)

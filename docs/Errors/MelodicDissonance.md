@@ -13,4 +13,4 @@ The example above has this error. Note in the soprano line the movement from `Db
 - TODO: Suggest possible fixes (nsolomon 9/19/2021)
 
 ## Additional Notes
-This ended up being a pretty neat check to implement. See [Interesting Notes](#../InterestingNotes) for more details.
+This ended up being a pretty neat check to implement. See ![Interesting Notes](#../InterestingNotes) for more details.
