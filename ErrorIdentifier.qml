@@ -12,7 +12,7 @@ import Qt.labs.settings 1.0
 
 MuseScore {
     menuPath: "Plugins.Analysis.Partwriting Error Identifier"
-    description: 'Automatically Identify Errors in Partwriting'
+    description: 'Automatically Identify Errors in part-writing'
     version: "0.1.0"
     pluginType: "dialog"
 
@@ -547,7 +547,7 @@ MuseScore {
         RowLayout {
             id: intro
             spacing: 20
-            Text { text: "  Welcome to the partwriting Error Identifier"; font.bold: true }
+            Text { text: "  Welcome to the part-writing Error Identifier"; font.bold: true }
         }
 
         RowLayout {

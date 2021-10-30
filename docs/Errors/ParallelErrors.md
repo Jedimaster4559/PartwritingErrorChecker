@@ -7,12 +7,12 @@ When two parts move in the same direction by the same interval, it is called par
 ## Fifths Example
 ![Parallel Fifths Example](../img/ParallelFifthsExample.PNG)
 
-In the example above, the soprano and alto line are seperated by a fifth and move upward in parallel motion. This creates parallel fifths.
+In the example above, the soprano and alto line are separated by a fifth and move upward in parallel motion. This creates parallel fifths.
 
 ## Octaves Example
 ![Parallel Octaves Example](../img/ParallelOctavesExample.PNG)
 
-In the example above, the soprano and bass line are seperated by an octave and move downward in parallel motion. This creates parallel octaves.
+In the example above, the soprano and bass line are separated by an octave and move downward in parallel motion. This creates parallel octaves.
 
 ## Additional Example
 It is also possible to have both errors as the same time.

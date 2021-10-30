@@ -1,7 +1,7 @@
 # Effective Use
 
 ## What this software does well
-This tool can provide instant feedback on a number of common partwriting errors. This can be particularly helpful when practicing partwriting as it can be hard for students to perform a self-assessment (or peer assessment) of their work.
+This tool can provide instant feedback on a number of common part-writing errors. This can be particularly helpful when practicing part-writing as it can be hard for students to perform a self-assessment (or peer assessment) of their work.
 
 ## What it doesn't do well
 There are a couple of partwriting standards that this tool cannot assess. Most of these deal are related to music concepts that are much more complex from a computational perspective. For example, this software is not capable of detecting errors resolving the leading tone, since that would require the tool to have a concept of the current key area.

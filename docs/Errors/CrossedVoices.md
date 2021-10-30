@@ -2,7 +2,7 @@
 A Crossed Voice error occurs when two parts cross.
 
 ## Description
-When partwriting, two individual parts should never cross each other. For example, at no point should the soprano line drop below the alto line. Doing so creates confusion over which part is which and damages the independence of the musical lines.
+When part-writing, two individual parts should never cross each other. For example, at no point should the soprano line drop below the alto line. Doing so creates confusion over which part is which and damages the independence of the musical lines.
 
 ## Example
 ![Crossed Voices Example](../img/CrossedVoicesExample.PNG)

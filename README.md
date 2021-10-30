@@ -2,7 +2,7 @@
 
 [![Documentation Status](https://readthedocs.org/projects/partwriting-error-checker/badge/?version=latest)](https://partwriting-error-checker.readthedocs.io/en/latest/?badge=latest)
 
-A [Musescore](https://musescore.org/en) plugin that can assess partwriting and find any errors that may have been made.
+A [Musescore](https://musescore.org/en) plugin that can assess part-writing and find any errors that may have been made.
 
 # Installation
 To install this plugin, copy the `errorIdentifier.qml` file into Musescore's Plugins directory. This is often placed in one of a couple locations. See the following page for more details on installation [https://musescore.org/en/handbook/3/plugins#installation](https://musescore.org/en/handbook/3/plugins#installation)
