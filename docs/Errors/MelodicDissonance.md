@@ -10,4 +10,4 @@ Melodic Dissonances most frequently occur in minor between the 6th and 7th scale
 The example above has this error. Note in the soprano line the movement from `Db` to `E`. The interval is an augmented second, which is not allowed.
 
 ## Additional Notes
-This ended up being a pretty neat check to implement. See [Interesting Notes](#../InterestingNotes) for more details.
+This ended up being a pretty neat check to implement. See ![Interesting Notes](#../InterestingNotes) for more details.

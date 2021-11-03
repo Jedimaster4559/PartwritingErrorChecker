@@ -1,8 +1,8 @@
 # Diminished Fifth Resolutions
-A diminished fifth (a tritone) should not resolve to a perfect fifth
+A diminished fifth (a tritone) should not resolve to a perfect fifth.
 
 ## Description
-Moving from a P5 to a d5 is allowed. This is called "unequal fifths". This motion however can often be confused with moving the other direction. Having a tritone often implies a specific resolution. The two notes of the tritone are typically a dominant 7th (which should resolve downwards) and the leading tone (which should move upwards). Moving from d5 to P5 will not fit that resolution.
+Moving from a P5 to a d5 is allowed. This is called "unequal fifths". This motion, however, can often be confused with moving the other direction. Having a tritone often implies a specific resolution. The two notes of the tritone are typically a dominant 7th (which should resolve downwards) and the leading tone (which should move upwards). Moving from d5 to P5 will not fit that resolution.
 
 ## Example
 ![Diminished Fifth Resolution Error Example](../img/DiminishedFifthResolutionErrorExample.PNG)
